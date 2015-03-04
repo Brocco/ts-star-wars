@@ -1,0 +1,11 @@
+/bower_components
+/dist
+/node_modules
+/coverage
+/docs/scratchpad.js
+.idea
+/stubs
+/widgets
+npm-debug.log
+*.crx
+*.pem

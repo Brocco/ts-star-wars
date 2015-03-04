@@ -1,0 +1,17 @@
+{
+  "name": "ts-star-wars",
+  "version": "0.0.1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.3.13",
+    "angular-route": "~1.3.13"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.3.13"
+  }
+}
